@@ -8,8 +8,8 @@
 
 ## 🌍 Language / Dil
 Select your preferred language / İstediğiniz dili seçin:
-* [🇹🇷 Türkçe](#-türkçe-dokümantasyon)
-* [🇺🇸 English](#-english-documentation)
+* [TR Türkçe](#-tr-türkçe-dokümantasyon)
+* [US English](#-en-english-documentation)
 
 ---
 
