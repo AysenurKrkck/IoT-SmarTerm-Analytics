@@ -8,11 +8,12 @@
 
 ## 🌍 Language / Dil
 Select your preferred language / İstediğiniz dili seçin:
-* [TR Türkçe](#-tr-türkçe-dokümantasyon)
-* [US English](#-en-english-documentation)
+* [TR Türkçe](#turkce-bolumu)
+* [US English](#english-section)
 
 ---
 
+<a name="turkce-bolumu"></a>
 # `TR` Türkçe Dokümantasyon
 
 **IoT-SmarTerm-Analytics**, ortamdaki sıcaklık ve nem verilerini donanım katmanından (Arduino Uno & DHT11) anlık olarak toplayan, I2C destekli bir LCD ekran üzerinde lokal olarak gösteren ve aynı zamanda Seri Port (UART) üzerinden bilgisayara aktararak Python ortamında gerçek zamanlı istatistiksel analiz (Ortalama, Medyan, Standart Sapma) ve dinamik grafik görselleştirmesi sunan uçtan uca bir IoT (Nesnelerin İnterneti) projesidir.
@@ -98,6 +99,7 @@ Sistem veri toplamaya başladığında oluşturulan grafik ekranı üzerinde şu
 📄 **Lisans**
 Bu proje MIT Lisansı altında lisanslanmıştır.
 
+<a name="english-section"></a>
 # `EN` English Documentation
 
 **IoT-SmarTerm-Analytics** is an end-to-end IoT (Internet of Things) project that collects real-time temperature and humidity data from the hardware layer (Arduino Uno & DHT11), displays it locally on an I2C-supported LCD screen, and simultaneously transmits it to a computer via Serial Port (UART) to provide real-time statistical analysis (Mean, Median, Standard Deviation) and dynamic graph visualization in a Python environment.
